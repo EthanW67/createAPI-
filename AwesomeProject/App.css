@@ -1,0 +1,7 @@
+.body{
+    background-color: #3FC060;
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    color: #162328;
+  }
